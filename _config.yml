@@ -1,0 +1,28 @@
+name: thack
+favicon: null
+layout_spectrum: 0.09707440575584769
+typography_spectrum: 0.01961748767644167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5507227382622659
+  lightness: 0.4908616174943745
+  saturation: 0.35704726446419954
+  rhythmicContrast: 0.5735551505349576
+purpose: []
